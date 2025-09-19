@@ -1,6 +1,18 @@
 # Taller1
 Entrega taller 1 MINE401 - Ciencia de datos aplicada
 
+
+## Autor(es):
+- Juan Carlos Cepeda Valero
+- José Daniel Molano Hoyos
+
+## Objetivo
+Este repositorio es la evidencia de la ejecución del Taller 1, de la materia MINE401 - Ciencia de datos aplicada, de la Universidad de los Andes en el segundo periodo del 2025. Dentro de este taller llevaremos a cabo el siguiente caso de negocio:
+Como consultor científico de datos especializado en el sector hotelero, su objetivo es ayudar a cadenas de hoteles a optimizar sus estrategias de ocupación. Con el aumento de la competencia y la variabilidad en la demanda, cada vez resulta más complejo tomar decisiones acertadas respecto a la política de precios, la gestión de cancelaciones y la anticipación de las reservas para garantizar ingresos sostenibles en el tiempo. Una vez que un cliente realiza una reserva, entender los factores que determinan la duración de la estadía, la probabilidad de cancelación y la influencia de características como el tipo de hotel, la composición del grupo de huéspedes o el canal de reservación es vital para el éxito del negocio.
+
+## Alcance
+Con la información suministrada en el data set reservas y atendiendo al siguiente diccionario de datos, seleccionaremos un grupo de herramientas estadisticas con el fin de asesorar a las cadenas hoteleras y las ejecutaremos con el fin de entegar insigths relevantes para la definición de una estrategia. Esta estrategia fue desarrollada en el siguiente Jupyter Notebook.
+
 ## Ejecutar el notebook `Taller1.ipynb`
 
 Sigue estos pasos para ejecutar el notebook de forma interactiva o automática.
